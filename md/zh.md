@@ -13,7 +13,7 @@
 
 ## __生成网络:__
 
-![generate network](generate network.jpg)
+![generate network](https://github.com/juju-w/Image-Denoise-using-Wasserstein-GAN/blob/main/md/generate%20network.jpg)
 
 生成网络一共分为三部分:
 
@@ -27,7 +27,7 @@
 
 ## __判别网络:__
 
-![discriminate network](discriminate network.jpg)
+![discriminate network](https://github.com/juju-w/Image-Denoise-using-Wasserstein-GAN/blob/main/md/discriminate%20network.jpg)
 
 根据WGAN的原理, 将原本GAN最后一层的 ___sigmoid 层___ 变为 ___全连接层___  将问题转化为求解一个 __回归问题__
 
@@ -39,11 +39,11 @@
 
 ## 结果:
 
-![baboon](baboon.jpg)
+![baboon](https://github.com/juju-w/Image-Denoise-using-Wasserstein-GAN/blob/main/md/baboon.jpg)
 
-![snow house](snow house.jpg)
+![snow house](https://github.com/juju-w/Image-Denoise-using-Wasserstein-GAN/blob/main/md/snow%20house.jpg)
 
-![image vs noise 25 ](image vs noise 25 .jpg)
+![image vs noise 25 ](https://github.com/juju-w/Image-Denoise-using-Wasserstein-GAN/blob/main/md/image%20vs%20noise%2025%20.jpg)
 
 <center>当噪声水平为25时本方法与其他方法的对比情况 </center>
 

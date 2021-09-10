@@ -13,7 +13,7 @@ other denoising way [github](https://github.com/wenbihan/reproducible-image-deno
 
 ## __Generate Network:__
 
-![generate network](md/generate network.jpg)
+![generate network](./md/generate network.jpg)
 
 The generation network is divided into three parts:
 
@@ -27,7 +27,7 @@ The generation network is divided into three parts:
 
 ## __Discriminate network:__
 
-![discriminate network](md/discriminate network.jpg)
+![discriminate network](./md/discriminate network.jpg)
 
 According to the main idea of WGAN, change the last ___sigmoid layer___ to ___dense layer___  convert into solving __Regression Issues__
 
@@ -39,11 +39,11 @@ According to the main idea of WGAN, change the last ___sigmoid layer___ to ___de
 
 ## Results:
 
-![baboon](md/baboon.jpg)
+![baboon](./md/baboon.jpg)
 
-![snow house](md/snow house.jpg)
+![snow house](./md/snow house.jpg)
 
-![image vs noise 25 ](md/image vs noise 25 .jpg)
+![image vs noise 25 ](./md/image vs noise 25 .jpg)
 
 <center>noise level 25 differ denoise way vs each others </center>
 
